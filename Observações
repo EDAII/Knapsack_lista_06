@@ -1,0 +1,5 @@
+Para pegar os tempos : 
+1)Compile o programa : g++ Knapsack.cpp.cpp  -o prog -std=c++11
+2)Entre com o numero de aulas que deseja inserir.
+3)Coloque os horarios de inicio e fim das aulas e pressione enter a cada inserção.
+4)No seu terminal aparecerá a mensagem com o numero de aulas e o total de salas usadas ao mesmo tempo.
